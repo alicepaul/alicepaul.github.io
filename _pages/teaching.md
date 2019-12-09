@@ -15,7 +15,7 @@ Listed below are courses I have taught or am scheduled to teach. For a teaching 
 
 ### Brown University
 
-- Probability, Statistics and Machine Learning: Advanced Methods, Spring 2018, Spring 2019.
+- Probability, Statistics and Machine Learning: Advanced Methods, Spring 2018 and Spring 2019.
 
 
 ### Cornell University

@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Article Publications
+## Articles
 
 - **Alice Paul** and David Williamson. [Easy Capacitated Facility Location Problems, with Connections to Lot-Sizing](https://linkinghub.elsevier.com/retrieve/pii/S0167637719306765), forthcoming in Operations Research Letters, 2020.
 
@@ -30,4 +30,4 @@ author_profile: true
 
 ## Book Chapters
 
-Daniel Freund, Ashkan Norouzi-Fard, Alice Paul, Shane Henderson and David B. Shmoys. [Data-Driven Rebalancing Methods for Bike-Share Systems](https://www.springer.com/gp/book/9783030350314), in E. Chrisotomi et al. (ed.), *Analytics for the Sharing Economy: Mathematics, Engineering, and Business Perspectives*, 2020.
+- Daniel Freund, Ashkan Norouzi-Fard, **Alice Paul**, Shane Henderson and David B. Shmoys. [Data-Driven Rebalancing Methods for Bike-Share Systems](https://www.springer.com/gp/book/9783030350314), in E. Chrisotomi et al. (ed.), *Analytics for the Sharing Economy: Mathematics, Engineering, and Business Perspectives*, 2020.

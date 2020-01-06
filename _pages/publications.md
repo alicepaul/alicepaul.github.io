@@ -5,8 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Article Publications
 
-- Daniel Freund, Ashan Nourozi-Fard, **Alice Paul**, Shane Henderson, and David B. Shmoys. *Data-Driven Rebalancing Methods for Bike-Share Systems*, forthcoming in Analytics for the Sharing Economy: Mathematics, Engineering, and Business Perspectives, 2019.
+- **Alice Paul** and David Williamson. *Easy Capacitated Facility Location Problems, with Connections to Lot-Sizingi*, forthcoming in Operations Research Letters, 2020.
 
 - **Alice Paul**, Daniel Freund, Aaron Ferber, David Shmoys, and David Williamson. [Budgeted Prize-Collecting Traveling Salesman and Minimum Spanning Tree Problems](https://pubsonline.informs.org/doi/10.1287/moor.2019.1002), Mathematics of Operations Research, 2019.
 
@@ -26,6 +27,7 @@ author_profile: true
 
 - **Alice Paul** and Nicholas Pippenger. [A Census of Vertices by Generations in Regular Tessellations of the Plane](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v18i1p87/pdf), Electronic Journal of Combinatorics, 2011.
 
-## In Submission
 
-- **Alice Paul** and David Williamson. *Easy Capacitated Facility Location Problems, with Connections to Lot-Sizing*, 2019.
+## Book Chapters
+
+Daniel Freund, Ashkan Norouzi-Fard, Alice Paul, Shane Henderson and David B. Shmoys. [Data-Driven Rebalancing Methods for Bike-Share Systems](https://www.springer.com/gp/book/9783030350314), in E. Chrisotomi et al. (ed.), *Analytics for the Sharing Economy: Mathematics, Engineering, and Business Perspectives*, 2020.

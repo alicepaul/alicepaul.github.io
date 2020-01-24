@@ -7,8 +7,10 @@ author_profile: true
 
 ### Olin College
 
-- Cassandra Overney: Understanding the relationship between public transit and bike-sharing ridership, Fall 2019.
+- Cassandra Overney: Understanding the relationship between public transit and bike-sharing ridership, Fall 2019 - Spring 2020.
   - Cassandra's poster placed first in the poster competition at NextGen Data Science Day.
+
+- Manu Patil: Implementing machine learning methods for survival analysis, Spring 2020.
 
 ### Brown University
 

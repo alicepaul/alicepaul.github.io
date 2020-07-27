@@ -23,8 +23,6 @@ author_profile: true
 
 - **Alice Paul**, Matthias Poloczek, and David Williamson. [Simple Approximation Algorithms for Balanced MAX 2SAT](https://link.springer.com/article/10.1007/s00453-017-0312-6), Algorithmica, 2017.
 
-- **Alice Paul**. [Detecting Covert Members of Terrorist Networks](https://scholarship.claremont.edu/hmc_theses/39/), Undergraduate Thesis at Harvey Mudd College, 2012. Winner of the 2012 Undergraduate Operations Research Prize Competition.
-
 - **Alice Paul** and Nicholas Pippenger. [A Census of Vertices by Generations in Regular Tessellations of the Plane](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v18i1p87/pdf), Electronic Journal of Combinatorics, 2011.
 
 

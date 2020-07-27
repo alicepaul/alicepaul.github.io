@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Alice Paul"
   avatar           : "images/profile_apaul.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Assistant Professor of Applied Math and Computer Science."
-  location         : "Olin College of Engineering"
+  bio              : "Assistant Professor of Biostatistics."
+  location         : "Brown University"
   email            : "apaul@olin.edu"
   links:
       #- label: "Email"

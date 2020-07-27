@@ -7,6 +7,8 @@ author_profile: true
 
 ### Olin College
 
+- Summer Research Group 2020 - Marion Madanguit, HK Rho, Maeve Stites, and Nolan Flynn: Analyzing demand and access to Providence's scooter-share programs in collaboration with the City of Providence, Summer 2020.  
+
 - Cassandra Overney: Understanding the relationship between public transit and bike-sharing ridership, Fall 2019 - Spring 2020.
   - Cassandra's poster placed first in the poster competition at NextGen Data Science Day.
 

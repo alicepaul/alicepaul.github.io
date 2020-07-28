@@ -105,7 +105,7 @@ author:
   avatar           : "images/profile_apaul.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Assistant Professor of Biostatistics."
   location         : "Brown University"
-  email            : "apaul@olin.edu"
+  email            : "alice_paul@brown.edu"
   links:
       #- label: "Email"
       #icon: "fas fa-fw fa-envelope-square"

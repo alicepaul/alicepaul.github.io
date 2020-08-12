@@ -9,7 +9,7 @@ Listed below are courses I have taught or am scheduled to teach. For a teaching 
 
 ### Brown University
 
-- PHP 1560/2560: Statistical Programming in R, Fall 2020
+- [PHP 1560/2560: Statistical Programming in R](https://sites.google.com/brown.edu/php15602560), Fall 2020
 - DATA 2020: Probability, Statistics, and Machine Learning: Advanced Methods, Spring 2018 and Spring 2019.
 
 ### Olin College

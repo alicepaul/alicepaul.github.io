@@ -36,7 +36,7 @@ author_profile: true
 
 - Pedro Felzenszwalb, Caroline Klivans, and **Alice Paul**. [Iterated Linear Optimization](https://arxiv.org/abs/2012.02213), 2020.  
 
-- Pedro Felzenszwalb, Caroline Klivans, and **Alice Paul** [Clustering with Iterated Linear Optimization](https://arxiv.org/abs/2012.09202), 2020.  
+- Pedro Felzenszwalb, Caroline Klivans, and **Alice Paul**. [Clustering with Iterated Linear Optimization](https://arxiv.org/abs/2012.09202), 2020.  
 
 - Cassandra Overney and **Alice Paul**. *The Relationship between Public Transit and Bikeshare Ridership: Case Studies in Boston, Philadelphia, and Washington DC*, 2020.  
 

@@ -28,4 +28,16 @@ author_profile: true
 
 ## Book Chapters
 
-- Daniel Freund, Ashkan Norouzi-Fard, **Alice Paul**, Shane Henderson and David B. Shmoys. [Data-Driven Rebalancing Methods for Bike-Share Systems](https://www.springer.com/gp/book/9783030350314), in E. Chrisotomi et al. (ed.), *Analytics for the Sharing Economy: Mathematics, Engineering, and Business Perspectives*, 2020.
+- **Alice Paul** and Susan Martonosi. [Operations Research](https://www.routledge.com/Data-Science-for-Mathematicians/Carter/p/book/9780367027056), in Nathan Carter (ed.), *Data Science for Mathematicians*, 2020.     
+
+- Daniel Freund, Ashkan Norouzi-Fard, **Alice Paul**, Shane Henderson and David B. Shmoys. [Data-Driven Rebalancing Methods for Bike-Share Systems](https://www.springer.com/gp/book/9783030350314), in E. Chrisotomi et al. (ed.), *Analytics for the Sharing Economy: Mathematics, Engineering, and Business Perspectives*, 2020.  
+
+## Pre-Prints
+
+- Pedro Felzenszwalb, Caroline Klivans, and **Alice Paul**. [Iterated Linear Optimization](https://arxiv.org/abs/2012.02213), 2020.  
+
+- Pedro Felzenszwalb, Caroline Klivans, and **Alice Paul** [Clustering with Iterated Linear Optimization](https://arxiv.org/abs/2012.09202), 2020.  
+
+- Cassandra Overney and **Alice Paul**. *The Relationship between Public Transit and Bikeshare Ridership: Case Studies in Boston, Philadelphia, and Washington DC*, 2020.  
+
+

@@ -7,7 +7,9 @@ author_profile: true
 
 ## Articles
 
-- **Alice Paul** and David Williamson. [Easy Capacitated Facility Location Problems, with Connections to Lot-Sizing](https://linkinghub.elsevier.com/retrieve/pii/S0167637719306765), forthcoming in Operations Research Letters, 2020.
+- Pedro Felzenszwalb, Caroline Klivans, and **Alice Paul**. [Iterated Linear Optimization](https://arxiv.org/abs/2012.02213), forthcoming in Quarterly of Applied Mathematics, 2021.
+
+- **Alice Paul** and David Williamson. [Easy Capacitated Facility Location Problems, with Connections to Lot-Sizing](https://linkinghub.elsevier.com/retrieve/pii/S0167637719306765), Operations Research Letters, 2020.
 
 - **Alice Paul**, Daniel Freund, Aaron Ferber, David Shmoys, and David Williamson. [Budgeted Prize-Collecting Traveling Salesman and Minimum Spanning Tree Problems](https://pubsonline.informs.org/doi/10.1287/moor.2019.1002), Mathematics of Operations Research, 2019.
 
@@ -33,8 +35,6 @@ author_profile: true
 - Daniel Freund, Ashkan Norouzi-Fard, **Alice Paul**, Shane Henderson and David B. Shmoys. [Data-Driven Rebalancing Methods for Bike-Share Systems](https://www.springer.com/gp/book/9783030350314), in E. Chrisotomi et al. (ed.), *Analytics for the Sharing Economy: Mathematics, Engineering, and Business Perspectives*, 2020.  
 
 ## Pre-Prints
-
-- Pedro Felzenszwalb, Caroline Klivans, and **Alice Paul**. [Iterated Linear Optimization](https://arxiv.org/abs/2012.02213), 2020.  
 
 - Pedro Felzenszwalb, Caroline Klivans, and **Alice Paul**. [Clustering with Iterated Linear Optimization](https://arxiv.org/abs/2012.09202), 2020.  
 

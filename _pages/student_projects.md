@@ -17,6 +17,8 @@ author_profile: true
 
 ### Brown University
 
+- Cassandra Overney (from Olin College): Building an Online Spatial Model Visualization for Shared Mobility Systems, Spring 2021.  
+
 - Emily Jaekle: Data Science capstone project on evidence for use of multilevel models for customer choice, Summer 2018.
 
 - Daniel Suh and Sibel Kadioglu: Data Science capstone project on intelligent team optimization in collaboration with Olin College, Summer 2018.

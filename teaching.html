@@ -24,9 +24,9 @@
 				</div>
 				<nav id="nav">
 					<ul>
-						<li><a href="index.html" style="color: pink">Home</a></li>
-						<li><a href="students.html" style="color: pink">Students</a></li>
-						<li><a href="teaching.html" style="color: pink">Teaching Portfolio</a></li>
+						<li><a href="index.html" style="color: rgb(255, 145, 0)">Home</a></li>
+						<li><a href="students.html" style="color: rgb(255, 145, 0)">Students</a></li>
+						<li><a href="teaching.html" style="color: rgb(255, 145, 0)">Teaching Portfolio</a></li>
 						<!--<li><a href="#" class="button">Sign Up</a></li> -->
 					</ul>
 				</nav>
@@ -37,19 +37,123 @@
 				<header>
 					<h2>Teaching Portfolio</h2>
 				</header>
+				<p>
+					My courses give students the tools to build upon the skills developed in the course through 
+					building intuition about how methods are used and expanded upon in practice, homework assignments 
+					that reflect the open-ended nature of data analysis, and shareable course projects that help
+					students career development. Courses highlighted below have further details. 
+				</p>
 				<div class="box">
-					<h3>Courses I've Taught</h3>
+					<h2>Courses I've Taught</h2>
 					<ul>
-						<li>PHP 2650: Statistical Learning and Big Data, Brown University, SP 2021, SP 2022, SP 2023.</li>
+						<li><a href="#2650" style="color: rgb(255, 145, 0)">PHP 2650: Statistical Learning and Big Data</a>, Brown University, SP 2021, SP 2022, SP 2023.</li>
 						<li>PHP 1511: Regression Analysis, Brown University, SP 2023.</li>
-						<li>PHP 1560/2560: Statistical Programming in R, Brown University, FA 2020, FA 2021, FA 2022. </li>
-						<li>PHP 2550: Practical Data Analysis, Brown University, FA 2020, FA 2021, FA 2022. </li>
+						<li><a href="#2560" style="color: rgb(255, 145, 0)">PHP 1560/2560: Statistical Programming in R</a>, Brown University, FA 2020, FA 2021, FA 2022. </li>
+						<li><a href="#2550" style="color: rgb(255, 145, 0)">PHP 2550: Practical Data Analysis</a>, Brown University, FA 2020, FA 2021, FA 2022. </li>
 						<li>DATA 2020: Statistical Learning, Brown University, SP 2018, SP 2019, SP 2022. </li>
 						<li>ENGR 3599: Data Structures and Algorithms, Olin College, SP 2020. </li>
 						<li>MTH 1111/SCI 1111: Modeling and Simulation of the Physical World, Olin College, FA 2019. </li>
 						<li>ENGRI 1101: Engineering Applications of Operations Research, Cornell University, FA 2016. </li>
 						<li>ORIE 3310: Optimization II, Cornell University, SU 2015.</li>
 					</ul>
+				</div>
+				<div class="box" id = "2560">
+					<h2>PHP 1560/2560: Statistical Programming in R</h2> <p>
+						Statistical computing is an essential part of data analysis. This courses practices approaching problems by thinking through the logic and translating that logic into 
+						code with a focus on using these skills in statistical applications. We focus on understanding the key libraries
+						in R, learning how to structure code in building blocks, and developing good coding
+						practices. Students also learn to read and evaluate other's code. 
+					</p>
+					<a href="docs/PHP1560_2560_Syllabus.pdf" class="button">Class Syllabus</a>
+					<hr>
+					<p>
+					<b> Course Format: </b>
+						This course is taught in a flipped format. Students read a notebook prior to class explaining
+						the key concepts that week and answering a few short questions to test their understanding. 
+						The weekly lab then consists of group exercises for which solutions are explained and shared 
+						after students have had a chance to attempt them on their own. Additionally, there are 1-2 problems 
+						that are for out-of-class. 
+					</p>
+					<a href = "docs/week7_preclass.pdf" class="button">Example Pre-Class Notebook</a> <a href = "docs/week7_lab.pdf" class="button">Example Weekly Lab</a>
+					<hr>
+					<p>
+					<b>Final Project:</b>
+						In the final project, students build website using the shiny package in RStudio that features a simulation or optimization application.
+						 Projects are graded on appropriate use of the course tools seen so far as well as the structure and documentation of their code.
+					</p>
+					<!--<a href = "#" class="button">Sample Student Project #1</a> <a href = "#" class="button">Sample Student Project #2</a>-->
+				</div>
+				<div class="box" id = "2550">
+					<h2>PHP 2550: Practical Data Analysis</h2> <p>
+						Analyzing data is a core skill for many scientists. In addition to familiarity with probability 
+						and statistics, good data analysis requires skill in computing and effective presentation of 
+						results and communication with scientific colleagues. This course thinks about how to translate
+						 the scientific question and hypothesis into a testable form, advise about data to be collected, 
+						 and manipulate the data into a computable format to carry out appropriate analysis.</p>
+					<p>
+						This course is designed for graduate students who will be analyzing data with scientific colleagues 
+						and who want to develop a practical hands-on toolkit and gain experience in distilling complex statistical 
+						information into formats understandable to colleagues. Topics including data collection, exploratory data analysis,
+						 missing data, fitting and checking models, simulation, predictive models, and presentation of reproducible 
+						 results are developed through a series of case studies.
+					</p>
+					<a href="docs/PHP_2550_Syllabus.pdf" class="button">Class Syllabus</a>
+					<hr>
+					<p>
+					<b> Course Format: </b>
+						This course is partially flipped and includes both lecture and group discussion. Students are expected
+						to complete readings in advance of class period to complete group discussions and exercises, see the example below.
+						Homework assignments each contain one paper response and one open-ended data analysis prompt related
+						to each module of the course. 
+					</p>
+					<a href = "docs/beverage_tax_philly.pdf" class="button">Pre-Class Reading</a> <a href = "docs/9 Scientific Questions II.pdf" class="button">Lecture Notes</a>
+					<hr>
+					<p>
+					<b>Final Project (Fall 2022):</b>
+						The final project was a semester-long project in collaboration with Dr. Ernest Julian, the Co-Chair
+						 of Healthy People 2030 Foodborne Illness Reduction Committee and a former Assistant Director 
+						 of Health at the Rhode Island Department of Health. Students were tasked with using the NCBI's 
+						 Foodborne Pathogen database to drive action. While students each choose
+						 their own approach, the general goal is that we are looking to extract patterns about 
+						 cases over time by looking at the genetic and source information available. Students
+						 were responsible for providing a literature review, exploratory analysis report, and 
+						 analysis plan to get feedback along the way with the final deliverables being a poster (presented at
+						 an open poster session) and report with corresponding github repository.
+					</p>
+					<!--<a href = "#" class="button">Sample Student Project #1</a> <a href = "#" class="button">Sample Student Project #2</a>-->
+				
+				</div>
+				<div class="box" id = "2650">
+					<h2>PHP 2650: Statistical Learning and Big Data</h2> <p>
+						This course introduces modern statistical learning tools with a focus on tools developed for big data. 
+						It covers three interconnected components: statistical machine learning methods, 
+						the underlying algorithms, and computational tools. This course focuses on the principal 
+						techniques to analyze data from start to finish: managing large data, exploring patterns, 
+						framing statistical problems, building efficient computational algorithms, and writing reports. 
+						Topics include data management, feature engineering, clustering, convex optimization algorithms, 
+						tree/ensemble methods, and neural networks.
+					</p>
+					<a href="docs/PHP_2650_Syllabus.pdf" class="button">Class Syllabus</a>
+					<hr>
+					<p>
+					<b> Course Format: </b>
+						This course is lecture-based with computational labs during class time. Lectures focus on 
+						the theoretical underpinnings of the methods while the labs highlight the application while
+						also emphasizing some of the key points of the lecture. Students can work in groups
+						through the lab material. Homework assignments contain a mixture of 2-3 theory questions and 
+						one open-ended data analysis prompt. 
+					</p>
+					<hr>
+					<p>
+					<b>Final Project (Spring 2022):</b>
+					The final project was a group project to learn about a topic not seen in class. 
+					Students could choose a direct extension of a topic seen, give an introduction to a new topic,
+					 or do a survey topic talking about a broader theme. Given the changing landscape of statistical 
+					 learning, the goal of this project was to practice reading about a new topic and explaining it 
+					 to others along with a short application through a blog post. This also gave students a chance 
+					 to create something that highlighted what they were are most interested in. Students were graded on
+					 their understanding and explanation of the topic along with creating an engaging presentation.
+					</p>
 				</div>
 			</section>
 

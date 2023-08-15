@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://alicepaul.github.io/</loc>
+  <lastmod>2023-08-15T14:54:11+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/index.html</loc>
+  <lastmod>2023-08-15T14:54:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/students.html</loc>
+  <lastmod>2023-08-15T14:54:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/teaching.html</loc>
+  <lastmod>2023-08-15T14:54:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/health-data-science-in-r/</loc>
+  <lastmod>2023-08-15T14:54:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/docs/apaul_cv.pdf</loc>
+  <lastmod>2023-08-15T14:54:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/docs/PHP1560_2560_Syllabus.pdf</loc>
+  <lastmod>2023-08-15T14:54:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/docs/week7_preclass.pdf</loc>
+  <lastmod>2023-08-15T14:54:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/docs/week7_lab.pdf</loc>
+  <lastmod>2023-08-15T14:54:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/docs/PHP_2550_Syllabus.pdf</loc>
+  <lastmod>2023-08-15T14:54:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/docs/beverage_tax_philly.pdf</loc>
+  <lastmod>2023-08-15T14:54:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/docs/9%20Scientific%20Questions%20II.pdf</loc>
+  <lastmod>2023-08-15T14:54:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/docs/PHP_2650_Syllabus.pdf</loc>
+  <lastmod>2023-08-15T14:54:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/health-data-science-in-r/book/1_intro_to_r.html</loc>
+  <lastmod>2023-08-15T14:54:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/health-data-science-in-r/book/2_data_structures.html</loc>
+  <lastmod>2023-08-15T14:54:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/health-data-science-in-r/book/3_data_files.html</loc>
+  <lastmod>2023-08-15T14:54:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/health-data-science-in-r/book/4_exploratory_analysis.html</loc>
+  <lastmod>2023-08-15T14:54:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/health-data-science-in-r/book/5_data_transformations_summaries.html</loc>
+  <lastmod>2023-08-15T14:54:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/health-data-science-in-r/book/6_merging_data.html</loc>
+  <lastmod>2023-08-15T14:54:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/health-data-science-in-r/book/7_visualization_ggplot.html</loc>
+  <lastmod>2023-08-15T14:54:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/health-data-science-in-r/book/8_distributions.html</loc>
+  <lastmod>2023-08-15T14:54:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/health-data-science-in-r/book/9_hypothesis_tests.html</loc>
+  <lastmod>2023-08-15T14:54:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/health-data-science-in-r/book/10_linear_regression.html</loc>
+  <lastmod>2023-08-15T14:54:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/health-data-science-in-r/book/11_logistic_regression.html</loc>
+  <lastmod>2023-08-15T14:54:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/health-data-science-in-r/book/12_rmarkdown_reports.html</loc>
+  <lastmod>2023-08-15T14:54:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/health-data-science-in-r/book/13_expanding_r_skills.html</loc>
+  <lastmod>2023-08-15T14:54:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://alicepaul.github.io/health-data-science-in-r/index.html</loc>
+  <lastmod>2023-08-15T14:54:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>

@@ -1,0 +1,144 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Alice Paul</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="icon" href="images/ap.png">
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<a class="image avatar"><img src="images/prof_pic.jpeg" alt="" style="width:120px;height:160px;" /></a>
+					<h1><strong>Alice Paul</strong> <br /></h1>
+					<h1> Assistant Professor of Biostatistics <br />
+					 Brown University </h1>
+				</div>
+				<nav id="nav">
+					<ul style="list-style: none;">
+						<li><a href="index.html" style="color: rgb(255, 145, 0)">Home</a></li>
+						<li><a href="research.html" style="color: rgb(255, 145, 0)">Current Research</a></li>
+						<li><a href="students.html" style="color: rgb(255, 145, 0)">Students</a></li>
+						<li><a href="teaching.html" style="color: rgb(255, 145, 0)">Teaching Portfolio</a></li>
+						<li><a href="health-data-science-using-r" style="color: rgb(255, 145, 0)">Health Data Science Using R</a></li>
+						<!--<li><a href="#" class="button">Sign Up</a></li> -->
+					</ul>
+				</nav>
+			</header>
+			
+
+			<section id="main" class="container">
+				<header>
+					<h2>Recent Research</h2>
+				</header>
+				
+				<div class="box" id = "ripta">
+					<center><h2>Prescriptive Analytics for RIPTA Ridership</h2> </center>
+					<p>
+					The Rhode Island Public Transit Authority (RIPTA) is the primary transit service within Rhode Island. 
+					The planning, scheduling, and data analysis teams within RIPTA use past ridership data to drive future 
+					operational decisions. This project uses this data to help support RIPTA's mission of providing reliable 
+					and cost-effective service across the community. 
+					</p>
+					<center>
+						<img src="images/ripta_map.png" alt="RIPTA Map" width="300">
+					</center>
+					<p>
+					One part of this research will examine the impact of the Washington Bridge closure on ridership and service
+					 levels. Since the closure, traffic in and around East Providence has increased substantially. 
+					 This not only impacts routes that need to cross the bridge but also those servicing the surrounding regions. 
+					 Our goal will be to use ridership data before and after the closure to estimate the impact on ridership by route
+					  and service delays. Given the bridge will be closed for at least the next two years, this information can then 
+					  be used to analyze whether schedule or service changes would help to increase ridership and on-time performance. 
+					</p>
+					<p>
+					 The second aim of this research is to work with RIPTA to develop a data-driven way to maximize service under 
+					 resource constraints. To do so, we can use past ridership data, past survey data, and travel times as input 
+					 into a model of demand throughout the state. Modeling this complex system will require a combination of 
+					 simulation and optimization techniques as well as an iterative modeling process to build in this underlying 
+					 complexity. A key objective will also be to make this decision-making tool transparent and explainable to the
+					  public.
+					</p>
+				
+					
+				</div>
+				<div class="box" id = "riskscores">
+					<center><h2>Risk Score Optimization</h2> <p></center>
+						<p>
+							Integer risk score models play a crucial role in healthcare by enabling clinicians to quickly estimate 
+							risk and giving a highly interpretable output. For example, the HAS-BLED risk score model (below) 
+							estimates the 1-year risk of major bleeding in patients with atrial fibrillation 
+							<a href="https://pubmed.ncbi.nlm.nih.gov/20299623/">[Pisters et al., 2010]</a>.
+							Risk score models can be found by rounding the estimated coefficients from a logistic regression model. 
+							However, rounding can significantly reduce the performance. Recent work has aimed to directly solve for 
+							a maximum likelihood risk score model. We introduce a new cyclical coordinate descent algorithm to 
+							estimate integer risk score models that scales well with the number of observations and covariates. 
+							We highlight our method with two applications in tuberculosis (TB) research to demonstrate how solving 
+							for an optimal risk score model can impact the model's performance and output. 
+							Our algorithm is implemented in an accessible R package. 
+						<p>
+					<center>
+						<img src="images/riskscores.png" alt="Example Risk Score Model" width=300">
+					</center>
+					<center> 
+						<a href = "https://cran.r-project.org/web/packages/riskscores/index.html" class="button"> riskscores R Package</a> 
+					</center>
+				</div>
+				<div class="box" id = "mobility">
+					<center><h2>Estimating Censored Demand in Dockless Shared Micromobility</h2> </center>
+					<p>
+						In shared micromobility networks, such as bike-share and scooter-share networks, using trip data to
+						 accurately estimate demand in docked and dockless systems is critical to analyzing how the system is 
+						 operating, such as identifying the number of dissatisfied users, operational costs, and equity in access,
+						 especially for city officials. However, the distribution of available bikes affects the distribution of 
+						 observed trips. Users may walk from an unobserved cell location to an available bike masking the true
+						  location of user demand, and users may look for a bike and not find one, which is unobserved user demand. We present a flexible and interpretable framework to estimate
+						  spatial-temporal demand as a spatial non-homogeneous Poisson process that explicitly models how users 
+						  choose a bike, bridging the gap between the docked and dockless methodology. 
+					<p>
+					<p>
+						We designed our model in collaboration with city planners from the City of Providence 
+						and apply our algorithm on data from Providence's dockless scooter-share network. The results
+						give insights into how the city can better ensure equitable access throughout the city. 
+						Our estimation algorithm is available through an efficient and user-friendly application 
+						designed for other city planners and organizations to help inform system planning.
+					</p>
+					<center>
+						<img src="images/mobility_app.png" alt="Providence Mobility App" width="500">
+					</center>
+					</p>
+				</div>
+				
+			</section>
+
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<ul class="icons">
+						<li><a href="mailto:alice_paul@brown.edu" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>&copy; 2024 Alice Paul</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
